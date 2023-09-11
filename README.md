@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ye (Billy) Tian</h1>
 <h3 align="center">A passionate developer from China</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.webp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yet1an&label=Profile%20views&color=0e75b6&style=flat" alt="yet1an" /> </p>
 
 - 📝 I’m studying at **Seneca College**
