@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ye (Billy) Tian</h1>
-<h3 align="center">A passionate developer from China</h3>
+<h3 align="center">An Aspiring Co-op Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.webp">
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **billyt0202@gmail.com**
 
-- ⚡ Fun fact **I love riding motorcycles, cooking and travelling**
+- ⚡ Fun fact **I love riding motorcycles 🏍️ cooking 🍲 and travelling 🌏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
