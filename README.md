@@ -7,7 +7,7 @@
 
 - 📝 I’m studying at **Seneca College**
 
-- 👨‍💻 I’m currently seeking **Winter 2024 Co-op Opportunities (4 or 8 months)**
+- 👨‍💻 I’m currently seeking **Summer 2024 Co-op Opportunities (4 or 8 months)**
 
 - 📫 How to reach me **billyt0202@gmail.com**
 
